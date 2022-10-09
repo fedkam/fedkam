@@ -1,7 +1,7 @@
 👋🏼 I'm a frontend developer.
 [Download my CV.](https://disk.yandex.ru/i/RBJAK_evQd3SUg)
 
-### React Tech Stack
+### React Tech Stack:
 - Styled-components / Sass
 - Redux / Redux Toolkit
 - React-router-dom
