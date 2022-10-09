@@ -1,6 +1,15 @@
 👋🏼 I'm a frontend developer.
 [Download my CV.](https://disk.yandex.ru/i/wc-1hJsI-Tjoaw)
 
+### React Tech Stack
+- Styled-components / Sass
+- Redux / Redux Toolkit
+- React-router-dom
+- Functional and class components
+- Webpack (v.4)
+- Babel
+- Eslint / Prettier
+- Jest / React Testing Library
 
 ## Examples:
 
