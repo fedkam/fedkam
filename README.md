@@ -17,3 +17,4 @@
 2. [CSSSR](https://github.com/fedkam/test-slomux). **Цель:** реализация самописного react-redux в классовом исполнении. Прикрепить счетчик к самописному redux. **Технологии:** react.
 3. [User list](https://github.com/fedkam/test-get-list-users). **Цель:** авторизация, сохранение токена в безопасном месте, запрос листа пользователей, редактирование информации. **Технологии:** react, redux.
 4. [iRemont](https://codesandbox.io/s/demo-iremont-rt15i?file=/src/containers/app/index.js) **Цель:** Для сервиса по ремонту iPhone необходимо было создать фирменный стиль, создать адаптивный макет в figma, сверстать адаптивный/резиновый сайт.  **Технологии:** адаптивная/отзывчивая верстка, react, scss, prop-types.
+5. [Axxonsoft](https://codesandbox.io/s/test-axxonsoft-coderefactor-p9myyt) **Цель:** Провести рефактор кода  **Технологии:** react, typescript
